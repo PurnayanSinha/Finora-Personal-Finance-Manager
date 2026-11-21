@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Finora</string>
+    <string name="tagline">Personal Finance Manager</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_budgets">Budgets</string>
+    <string name="nav_profile">Profile</string>
+    <string name="error_invalid_amount">Please enter a valid positive amount in INR.</string>
+    <string name="error_required_field">This field is required.</string>
+</resources>

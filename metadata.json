@@ -1,0 +1,6 @@
+{
+  "name": "Finora",
+  "description": "Personal Finance Manager for tracking income, expenses, credits, budgets, savings goals, and financial analytics in INR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
